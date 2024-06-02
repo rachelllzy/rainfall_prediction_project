@@ -9,7 +9,6 @@ This project involves analyzing and visualizing data using Python and Jupyter No
 3. [Project Structure](#project-structure)
 4. [Examples](#examples)
 5. [Contributing](#contributing)
-6. [License](#license)
 
 ## Installation
 
