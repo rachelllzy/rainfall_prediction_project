@@ -1,4 +1,4 @@
-# Rainfall_prediction_project
+# Rainfall_prediction_MachineLearning_based
 
 This project involves analyzing and visualizing data using Python and Jupyter Notebook. It demonstrates various data manipulation and visualization techniques using libraries like Pandas, Matplotlib, and Seaborn.
 
